@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="200px" alt="Project Title Logo" title="Project Title Logo" src="logo.svg" />
+  <img width="200px" alt="Project Logo" title="Project Title Logo" src="logo.svg" />
   
   <h1 align="center">Project Title</h1>
 
