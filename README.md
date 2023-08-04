@@ -33,9 +33,9 @@ In the GitHub edit, drag the video that it already puts on github itself.
 
 ## 🎨 Layout
 
-Layout developed by [Name](https://www.instagram.com/urlName/)
+Layout developed by [Henryolivgp](https://www.instagram.com/henryolivgp/)
 
-[![Layout in Figma](https://github.com/VagnerNerves/default-readme/blob/main/assets/layout-in-figma.svg)](https://www.figma.com/files)
+
 
 ## 👏 Learning and more Implementations
 
@@ -170,8 +170,7 @@ Start the server
 
 ## 📝 Routes
 
-[![Run in Postman](https://github.com/VagnerNerves/default-readme/blob/main/assets/run-in-postman.svg)](https://app.getpostman.com/run-collection/link)
-[![Run in Insomnia](https://github.com/VagnerNerves/default-readme/blob/main/assets/run-in-insomnia.svg)](https://insomnia.rest/run/?label=NAMEPROJECT&uri=LINK)
+
 
 ## 🌎 License
 
